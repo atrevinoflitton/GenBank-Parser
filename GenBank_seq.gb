@@ -1,0 +1,624 @@
+LOCUS       HSU59058                 549 bp    mRNA    linear   PRI 07-FEB-1997
+DEFINITION  Human beta-A3/A1 crystallin (CYRBA3/A1) mRNA, partial cds.
+ACCESSION   U59058
+VERSION     U59058.1  GI:1389775
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 549)
+  AUTHORS   Hogg,D., Tsui,L.C., Gorin,M. and Breitman,M.L.
+  TITLE     Characterization of the human beta-crystallin gene Hu beta A3/A1
+            reveals ancestral relationships among the beta gamma-crystallin
+            superfamily
+  JOURNAL   J. Biol. Chem. 261 (26), 12420-12427 (1986)
+   PUBMED   3745196
+REFERENCE   2  (bases 1 to 549)
+  AUTHORS   Lampi,K.J., Ma,Z., Shih,M., Shearer,T.R., Smith,J.B., Smith,D.L.
+            and David,L.L.
+  TITLE     Sequence analysis of betaA3, betaB3, and betaA4 crystallins
+            completes the identification of the major proteins in young human
+            lens
+  JOURNAL   J. Biol. Chem. 272 (4), 2268-2275 (1997)
+   PUBMED   8999933
+REFERENCE   3  (bases 1 to 549)
+  AUTHORS   Lampi,K.J. and David,L.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAY-1996) Oral Molecular Biology, Oregon Health
+            Science University, 611 SW Campus Dr., Portland, OR 97201, USA
+FEATURES             Location/Qualifiers
+     source          1..549
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+     gene            1..549
+                     /gene="CYRBA3/A1"
+     CDS             <1..521
+                     /gene="CYRBA3/A1"
+                     /note="deduced amino acid sequence has been confirmed by
+                     mass spectrometry; lens structural protein"
+                     /codon_start=3
+                     /product="beta A3/A1 crystallin"
+                     /protein_id="AAC50971.1"
+                     /db_xref="GI:1389776"
+                     /translation="KRMEFTSSCPNVSERSFDNVRSLKVESGAWIGYEHTSFCGQQFI
+                     LERGEYPRWDAWSGSNAYHIERLMSFRPICSANHKESKMTIFEKENFIGRQWEISDDY
+                     PSLQAMGWFNNEVGSMKIQSGAWVCYQYPGYRGYQYILECDHHGGDYKHWREWGSHAQ
+                     TSQIQSIRRIQQ"
+     conflict        194
+                     /gene="CYRBA3/A1"
+                     /note="this sequence differs from the previously reported
+                     sequence by Hogg, et al., Genbank Accession Number M14306"
+                     /citation=[1]
+     conflict        219
+                     /gene="CYRBA3/A1"
+                     /note="this sequence differs from the previously reported
+                     sequence by Hogg, et al., Genbank Accession Number M14306"
+                     /citation=[1]
+     conflict        389
+                     /gene="CYRBA3/A1"
+                     /note="this sequence differs from the previously reported
+                     sequence by Hogg, et al., Genbank Accession Number M14306"
+                     /citation=[1]
+     conflict        394
+                     /gene="CYRBA3/A1"
+                     /note="this sequence differs from the previously reported
+                     sequence by Hogg, et al., Genbank Accession Number M14306"
+                     /citation=[1]
+     conflict        423
+                     /gene="CYRBA3/A1"
+                     /note="this sequence differs from the previously reported
+                     sequence by Hogg, et al., Genbank Accession Number M14306"
+                     /citation=[1]
+     conflict        439
+                     /gene="CYRBA3/A1"
+                     /note="this sequence differs from the previously reported
+                     sequence by Hogg, et al., Genbank Accession Number M14306"
+                     /citation=[1]
+ORIGIN      
+        1 gcaagaggat ggagttcacc agctcctgtc caaatgtctc tgagcgcagt tttgataatg
+       61 tccggtccct gaaggtggaa agtggcgcct ggattggtta tgagcatacc agcttctgtg
+      121 ggcaacagtt tatcctggag agaggagaat accctcgctg ggatgcctgg agtgggagta
+      181 atgcctacca cattgagcgt ctcatgtcct tccgccccat ctgttcagct aatcataagg
+      241 agtctaagat gaccatcttt gagaaggaaa actttattgg acgccagtgg gagatctctg
+      301 acgactaccc ctccttgcaa gccatgggyt ggttcaacaa cgaagtcggc tccatgaaga
+      361 tacaaagtgg ggcctgggtt tgctaccaat atcctggata tcgtgggtat cagtatatct
+      421 tggaatgtga ccatcatgga ggagactata aacattggag agagtggggc tctcatgccc
+      481 agacttcgca gatccaatcg attcgccgaa tccaacagta gctgattaaa agctccaagt
+      541 acgataatt
+//
+
+LOCUS       HSU05569                1112 bp    mRNA    linear   PRI 25-APR-1996
+DEFINITION  Human alphaA-crystallin (CRYA1) mRNA, complete cds.
+ACCESSION   U05569
+VERSION     U05569.1  GI:452477
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1112)
+  AUTHORS   Jaworski,C.J.
+  TITLE     The human alphaA-crystallin gene
+  JOURNAL   Thesis (1992) LMDB, NEI, Molecular Structure and Function
+REFERENCE   2  (bases 1 to 1112)
+  AUTHORS   Jaworski,C.J.
+  TITLE     A reassessment of mammalian alpha A-crystallin sequences using DNA
+            sequencing: implications for anthropoid affinities of tarsier
+  JOURNAL   J. Mol. Evol. 41 (6), 901-908 (1995)
+   PUBMED   8587135
+REFERENCE   3  (bases 1 to 1112)
+  AUTHORS   Wistow,G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JAN-1994) Graeme J. Wistow, Molecular Structure and
+            Function, LMDB, NEI, NIH, Bethesda, MD 20892, USA
+FEATURES             Location/Qualifiers
+     source          1..1112
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="21"
+                     /tissue_type="lens"
+     gene            1..1112
+                     /gene="CRYA1"
+     CDS             68..589
+                     /gene="CRYA1"
+                     /function="lens structural protein"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="This sequence is derived from genomic and cDNA
+                     sequence"
+                     /citation=[1]
+                     /citation=[2]
+                     /codon_start=1
+                     /product="alphaA-crystallin"
+                     /protein_id="AAA97523.1"
+                     /db_xref="GI:452478"
+                     /translation="MDVTIQHPWFKRTLGPFYPSRLFDQFFGEGLFEYDLLPFLSSTI
+                     SPYYRQSLFRTVLDSGISEVRSDRDKFVIFLDVKHFSPEDLTVKVQDDFVEIHGKHNE
+                     RQDDHGYISREFHRRYRLPSNVDQSALSCSLSADGMLTFCGPKIQTGLDATHAERAIP
+                     VSREEKPTSAPSS"
+ORIGIN      
+        1 acactggctg ccagaggccc cgctgactcc tgccagcctc caggtccccg tggtaccaaa
+       61 gctgaacatg gacgtgacca tccagcaccc ctggttcaag cgcaccctgg ggcccttcta
+      121 ccccagccgg ctgttcgacc agtttttcgg cgagggcctt tttgagtatg acctgctgcc
+      181 cttcctgtcg tccaccatca gcccctacta ccgccagtcc ctcttccgca ccgtgctgga
+      241 ctccggcatc tctgaggttc gatccgaccg ggacaagttc gtcatcttcc tcgatgtgaa
+      301 gcacttctcc ccggaggacc tcaccgtgaa ggtgcaggac gactttgtgg agatccacgg
+      361 aaagcacaac gagcgccagg acgaccacgg ctacatttcc cgtgagttcc accgccgcta
+      421 ccgcctgccg tccaacgtgg accagtcggc cctctcttgc tccctgtctg ccgatggcat
+      481 gctgaccttc tgtggcccca agatccagac tggcctggat gccacccacg ccgagcgagc
+      541 catccccgtg tcgcgggagg agaagcccac ctcggctccc tcgtcctaag cagcattgcc
+      601 tcggctggct cccctggcag ccctggccca tcatgggggg agcaccctga gggcggggta
+      661 gtctgtcttc gctttgcttc ccttttttcc tttccacctt ctcacatgga atgagggttt
+      721 gagagagcag ccaggagagc ttagggtctc agggtgtccc agaccccgac accggccagt
+      781 ggcggaagtg accgcacctc acactccttt agatagcagc ctggctcccc tggggtgcag
+      841 gcgcctcaac tctgctgagg gtccagaagg agggggtgac ctcctggcca ggtgcctcct
+      901 gacacacctg cagcctccct ccgcggcggg ccctgcacac ctcctggggc gcgtgaccgc
+      961 gtggggccgg ggcttctgtg cacctgggct ctcgcggcct cttctctcag accgtcttcc
+     1021 tccaacccct ctatgtagtg ccgctcttgg ggacatgggt cgcccatgag agcgcagccc
+     1081 gcggcaatca ataaacagca ggtgatacaa gc
+//
+
+LOCUS       HSU90906                 865 bp    mRNA    linear   PRI 29-MAR-1997
+DEFINITION  Human clone 23827 heat shock protein mRNA, complete cds.
+ACCESSION   U90906
+VERSION     U90906.1  GI:1913884
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 865)
+  AUTHORS   Andersson,B., Wentland,M.A., Ricafrente,J.Y., Liu,W. and Gibbs,R.A.
+  TITLE     A 'double adaptor' method for improved shotgun library construction
+  JOURNAL   Anal. Biochem. 236 (1), 107-113 (1996)
+   PUBMED   8619474
+REFERENCE   2  (bases 1 to 865)
+  AUTHORS   Yu,W., Andersson,B., Worley,K.C., Muzny,D.M., Ding,Y., Liu,W.,
+            Ricafrente,J.Y., Wentland,M.A., Lennon,G. and Gibbs,R.A.
+  TITLE     Large-scale concatenation cDNA sequencing
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 865)
+  AUTHORS   Yu,W. and Gibbs,R.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-FEB-1997) Molecular and Human Genetics, Baylor
+            College of Medicine, One Baylor Plaza S930, Houston, TX 77030, USA
+FEATURES             Location/Qualifiers
+     source          1..865
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="23827"
+                     /sex="female"
+                     /tissue_type="brain"
+                     /clone_lib="Soares library 1NIB from IMAGE consortium"
+                     /dev_stage="infant"
+     CDS             108..725
+                     /note="similar to human 27 kDa heat shock protein encoded
+                     by GenBank Accession Number X03900; HSP27"
+                     /codon_start=1
+                     /product="heat shock protein"
+                     /protein_id="AAB51056.1"
+                     /db_xref="GI:1913885"
+                     /translation="MTERRVPFSLLRGPSWDPFRDWYPHSRLFDQAFGLPRLPEEWSQ
+                     WLGGSSWPGYVRPLPPAAIESPAVAAPAYSRALSRQLSSGVSEIRHTADRWRVSLDVN
+                     HFAPDELTVKTKDGVVEITGKHEERQDEHGYISRCFTRKYTLPPGVDPTQVSSSLSPE
+                     GTLTVEAPMPKLATQSNEITIPVTFESRAQLGGPEAAKSDETAAK"
+ORIGIN      
+        1 ctcaaacacc gcctgctaaa aatacccgac tggaggagca taaaagcgca gccgagccca
+       61 gcgccccgca cttttctgag cagacgtcca gagcagagtc agccagcatg accgagcgcc
+      121 gcgtcccctt ctcgctcctg cggggcccca gctgggaccc cttccgcgac tggtacccgc
+      181 atagccgcct cttcgaccag gccttcgggc tgccccggct gccggaggag tggtcgcagt
+      241 ggttaggcgg cagcagctgg ccaggctacg tgcgccccct gccccccgcc gccatcgaga
+      301 gccccgcagt ggccgcgccc gcctacagcc gcgcgctcag ccggcaactc agcagcgggg
+      361 tctcggagat ccggcacact gcggaccgct ggcgcgtgtc cctggatgtc aaccacttcg
+      421 ccccggacga gctgacggtc aagaccaagg atggcgtggt ggagatcacc ggcaagcacg
+      481 aggagcggca ggacgagcat ggctacatct cccggtgctt cacgcggaaa tacacgctgc
+      541 cccccggtgt ggaccccacc caagtttcct cctccctgtc ccctgagggc acactgaccg
+      601 tggaggcccc catgcccaag ctagccacgc agtccaacga gatcaccatc ccagtcacct
+      661 tcgagtcgcg ggcccagctt gggggcccag aagctgcaaa atccgatgag actgccgcca
+      721 agtaaagcct tagcctggat gcccacccct gctgccgcca ctggctgtgc ctcccccgcc
+      781 acctgtgtgt tcttttgata catttatctt ctgtttttct caaataaagt tcaaagcaac
+      841 cacctgtaaa aaaaaaaaaa aaaaa
+//
+
+LOCUS       HSU66584                 741 bp    mRNA    linear   PRI 14-DEC-1996
+DEFINITION  Human alphaA-crystallin (CRYAA) mRNA, complete cds.
+ACCESSION   U66584
+VERSION     U66584.1  GI:1732062
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 741)
+  AUTHORS   Petrash,J.M., Mathur,S., Manoharan,M. and Andley,U.P.
+  TITLE     Cloning and expression of human lens crystallins
+  JOURNAL   Invest. Ophthalmol. Vis. Sci. 36, S882-S882 (1995)
+REFERENCE   2  (bases 1 to 741)
+  AUTHORS   Andley,U.P., Mathur,S., Griest,T.A. and Petrash,J.M.
+  TITLE     Cloning, expression, and chaperone-like activity of human
+            alphaA-crystallin
+  JOURNAL   J. Biol. Chem. 271 (50), 31973-31980 (1996)
+   PUBMED   8943244
+REFERENCE   3  (bases 1 to 741)
+  AUTHORS   Petrash,J.M., Mathur,S., Wang,J.C., Griest,T.A. and Andley,U.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-1996) Ophthalmology and Visual Sciences,
+            Washington University School of Medicine, 660 S. Euclid Ave., St.
+            Louis, MO 63110, USA
+FEATURES             Location/Qualifiers
+     source          1..741
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /tissue_type="eye lens"
+     gene            1..741
+                     /gene="CRYAA"
+     CDS             1..522
+                     /gene="CRYAA"
+                     /function="structural protein"
+                     /note="structurally related to sHSPs; chaperone-like
+                     activity"
+                     /codon_start=1
+                     /product="alphaA-crystallin"
+                     /protein_id="AAC50900.1"
+                     /db_xref="GI:1732063"
+                     /translation="MDVTIQHPWFKRTLGPFYPSRLFDQFFGEGLFEYDLLPFLSSTI
+                     SPYYRQSLFRTVLDSGISEVRSDRDKFVIFLDVKHFSPEDLTVKVQDDFVEIHGKHNE
+                     RQDDHGYISREFHRRYRLPSNVDQSALSCSLSADGMLTFCGPKIQTGLDATHAERAIP
+                     VSREEKPTSAPSS"
+ORIGIN      
+        1 atggacgtga ccatccagca cccctggttc aagcgcaccc tggggccctt ctaccccagc
+       61 cggctgttcg accagttttt cggcgagggc ctttttgagt atgacctgct gcccttcctg
+      121 tcgtccacca tcagccccta ctaccgccag tccctcttcc gcaccgtgct ggactccggc
+      181 atctctgagg ttcgatccga ccgggacaag ttcgtcatct tcctcgatgt gaagcacttc
+      241 tccccggagg acctcaccgt gaaggtgcag gacgactttg tggagatcca cggaaagcac
+      301 aacgagcgcc aggacgacca cggctacatt tcccgtgagt tccaccgccg ctaccgcctg
+      361 ccgtccaacg tggaccagtc ggccctctct tgctccctgt ctgccgatgg catgctgacc
+      421 ttctgtggcc ccaagatcca gactggcctg gatgccaccc acgccgagcg agccatcccc
+      481 gtgtcgcggg aggagaagcc cacctcggct ccctcgtcct aagcagcatt gcctcggctg
+      541 gctcccctgg cagccctggc ccatcatggg gggagcaccc tgagggcggg gtagtctgtc
+      601 ttcgctttgc ttcccttttt tcctttccac cttctcacat ggaatgaggg tttgagagag
+      661 cagccaggag agcttagggt ctcagggtgt cccagacccc gacaccggcc agtggcggaa
+      721 gtgaccgcac ctcacactcc t
+//
+
+LOCUS       HSU66583                 590 bp    mRNA    linear   PRI 14-DEC-1996
+DEFINITION  Human gammaD-crystallin (CRYGD) mRNA, complete cds.
+ACCESSION   U66583
+VERSION     U66583.1  GI:1732060
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 590)
+  AUTHORS   Petrash,J.M., Mathur,S., Manoharan,M. and Andley,U.P.
+  TITLE     Cloning and expression of human lens crystallins
+  JOURNAL   Invest. Ophthalmol. Vis. Sci. 36, S882-S882 (1995)
+REFERENCE   2  (bases 1 to 590)
+  AUTHORS   Andley,U.P., Mathur,S., Griest,T.A. and Petrash,J.M.
+  TITLE     Cloning, expression and chaperone-like activity of human alpha
+            crystallin
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 590)
+  AUTHORS   Petrash,J.M., Mathur,S., Wang,J.C., Griest,T.A. and Andley,U.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-1996) Ophthalmology and Visual Sciences,
+            Washington University School of Medicine, 660 S. Euclid Ave., St.
+            Louis, MO 63110, USA
+FEATURES             Location/Qualifiers
+     source          1..590
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /tissue_type="eye lens"
+     gene            1..590
+                     /gene="CRYGD"
+     CDS             1..525
+                     /gene="CRYGD"
+                     /function="structural protein"
+                     /note="similar to bovine gammaB-crystallin GenBank
+                     Accession Number M16894"
+                     /codon_start=1
+                     /product="gammaD-crystallin"
+                     /protein_id="AAB38686.1"
+                     /db_xref="GI:1732061"
+                     /translation="MGKITLYEDRGFQGRHYECSSDHPNLQPYLSRCNSARVDSGCWM
+                     LYEQPNYSGLQYFLRRGDYADHQQWMGLSDSVRSCRLIPHSGSHRIRLYEREDYRGQM
+                     IEFTEDCSCLQDRFRFNEIHSLNVLEGSWVLYELSNYRGRQYLLMPGDYRRYQDWGAT
+                     NARVGSLRRVIDFS"
+ORIGIN      
+        1 atggggaaga tcaccctcta cgaggaccgg ggcttccagg gccgccacta tgaatgcagc
+       61 agcgaccacc ccaacctgca gccctacttg agccgctgca actcggcgcg cgtggacagc
+      121 ggctgctgga tgctctatga gcagcccaac tactcgggcc tccagtactt cctgcgccgc
+      181 ggcgactatg ccgaccacca gcagtggatg ggcctcagcg actcggtccg ctcctgccgc
+      241 ctcatccccc actctggctc tcacaggatc agactctatg agagggagga ctacagaggc
+      301 cagatgatag agttcactga ggactgctcc tgtcttcagg accgcttccg cttcaatgaa
+      361 atccactccc tcaacgtgct ggagggctcc tgggtcctct acgagctgtc caactaccga
+      421 ggacggcagt acctgctgat gccaggggac tataggcgct accaggactg gggggccacg
+      481 aatgccagag tgggctctct gaggagagtc atagatttct cctgaaatat gtcctccttt
+      541 gttgtttctt aatttggaaa ctaataaaat attttctgtg tgttcctggc
+//
+
+LOCUS       HSU66582                 589 bp    mRNA    linear   PRI 14-DEC-1996
+DEFINITION  Human gammaC-crystallin (CRYGC) mRNA, complete cds.
+ACCESSION   U66582
+VERSION     U66582.1  GI:1732058
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 589)
+  AUTHORS   Petrash,J.M., Mathur,S., Manoharan,M. and Andley,U.P.
+  TITLE     Cloning and expression of human lens crystallins
+  JOURNAL   Invest. Ophthalmol. Vis. Sci. 36, S882-S882 (1995)
+REFERENCE   2  (bases 1 to 589)
+  AUTHORS   Andley,U.P., Mathur,S., Griest,T.A. and Petrash,J.M.
+  TITLE     Cloning, expression, and chaperone-like activity of human
+            alphaA-crystallin
+  JOURNAL   J. Biol. Chem. 271 (50), 31973-31980 (1996)
+   PUBMED   8943244
+REFERENCE   3  (bases 1 to 589)
+  AUTHORS   Petrash,J.M., Mathur,S., Wang,J.C., Griest,T.A. and Andley,U.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-1996) Ophthalmology and Visual Sciences,
+            Washington University School of Medicine, 660 S. Euclid Ave., St.
+            Louis, MO 63110, USA
+FEATURES             Location/Qualifiers
+     source          1..589
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /tissue_type="eye lens"
+     gene            1..589
+                     /gene="CRYGC"
+     CDS             1..525
+                     /gene="CRYGC"
+                     /function="structural protein"
+                     /note="similar to bovine gammaC-crystallin GenBank
+                     Accession Number L27069"
+                     /codon_start=1
+                     /product="gammaC-crystallin"
+                     /protein_id="AAC50899.1"
+                     /db_xref="GI:1732059"
+                     /translation="MGKITFYEDRAFQGRSYETTTDCPNLQPYFSRCNSIRVESGCWM
+                     LYERPNYQGQQYLLRRGEYPDYQQWMGLSDSIRSCCLIPQTVSHRLRLYEREDHKGLM
+                     MELSEDCPSIQDRFHLSEIRSLHVLEGCWVLYELPNYRGRQYLLRPQEYRRCQDWGAM
+                     DAKAGSLRRVVDLY"
+ORIGIN      
+        1 atggggaaga tcaccttcta tgaggacagg gccttccagg gccgcagcta cgaaaccacc
+       61 actgactgcc ccaacctgca gccgtatttc agccgctgca actccatccg ggtggagagc
+      121 ggctgctgga tgctctatga gcgtcccaac taccaaggtc aacaatactt gctgcggcga
+      181 ggggagtacc ccgactacca gcaatggatg ggcctcagcg actccatccg ctcctgttgt
+      241 ctcatccccc aaacagtctc ccacaggctg cggctgtacg agagggaaga ccacaaaggc
+      301 ctcatgatgg agctgagtga agactgcccc agcatccagg accgcttcca cctcagcgag
+      361 atccgttccc tccacgtgct ggagggctgc tgggtcctct acgagctccc caactaccgg
+      421 gggcggcaat acctgctgag gccccaagag tacaggcggt gccaggactg gggggccatg
+      481 gatgctaagg caggctcttt gcggagagtg gtggatttgt attaaaatag cttaacacta
+      541 ccaatttccc attttggaac ctaataaata tttagtctgc attgctggc
+//
+
+LOCUS       HSU71216                 379 bp    mRNA    linear   PRI 07-FEB-1997
+DEFINITION  Human betaB3 crystallin mRNA, partial cds.
+ACCESSION   U71216
+VERSION     U71216.1  GI:1617618
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 379)
+  AUTHORS   Lampi,K.J., Ma,Z., Shih,M., Shearer,T.R., Smith,J.B., Smith,D.L.
+            and David,L.L.
+  TITLE     Sequence analysis of betaA3, betaB3, and betaA4 crystallins
+            completes the identification of the major proteins in young human
+            lens
+  JOURNAL   J. Biol. Chem. 272 (4), 2268-2275 (1997)
+   PUBMED   8999933
+REFERENCE   2  (bases 1 to 379)
+  AUTHORS   Lampi,K.J. and David,L.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-SEP-1996) Oral Molecular Bio., OR. Health Sci. Univ.,
+            611 SW Campus Dr., Portland, OR 97201, USA
+FEATURES             Location/Qualifiers
+     source          1..379
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+     CDS             72..>379
+                     /function="lens structural protein"
+                     /note="similar to sequence encoded by GenBank Accession
+                     Number X15144"
+                     /codon_start=1
+                     /product="betaB3 crystallin"
+                     /protein_id="AAC50972.1"
+                     /db_xref="GI:1617619"
+                     /translation="MAEQHGAPEQAAAGKSHGDLGGSYKVILYELENFQGKRCELSAE
+                     CPSLTDSLLEKVGSIQVESGPWLAFESRAFRGEQFVLEKGDYPRWDAWSNSRDSDSLL
+                     S"
+ORIGIN      
+        1 aatctgcaga cggccgtggc tcctctgttc ttcccgaggc tacagcaaca gccagaggtg
+       61 ttcctgggga gatggcggaa cagcacggag cacccgaaca ggctgcagct ggcaagagcc
+      121 atggagacct tgggggcagc tacaaggtga tcttgtacga actagagaac ttccaaggca
+      181 aacgctgcga gctctcggcc gagtgcccca gcctgaccga cagcctgctg gagaaggtgg
+      241 gctccatcca agtggagtcc gggccgtggc tggcatttga gtccagggcc ttccgcgggg
+      301 agcagtttgt tctggagaag ggggattatc ctcgctggga tgcctggtcc aacagccgtg
+      361 atagtgacag ccttctgtc
+//
+
+LOCUS       S67070                   450 bp    mRNA    linear   PRI 05-FEB-1994
+DEFINITION  heat shock protein HSP72 homolog [human, thyroid associated
+            ophthalmopathy patient, mRNA Partial, 450 nt].
+ACCESSION   S67070
+VERSION     S67070.1  GI:452946
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 450)
+  AUTHORS   Elisei,R., Weightman,D., Kendall-Taylor,P., Vassart,G. and
+            Ludgate,M.
+  TITLE     Muscle autoantigens in thyroid associated ophthalmopathy: the
+            limits of molecular genetics
+  JOURNAL   J. Endocrinol. Invest. 16 (7), 533-540 (1993)
+   PUBMED   8227983
+  REMARK    GenBank staff at the National Library of Medicine created this
+            entry [NCBI gibbsq 140312] from the original journal article.
+FEATURES             Location/Qualifiers
+     source          1..450
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+     gene            1..450
+                     /gene="heat shock protein HSP72 homolog"
+     CDS             1..288
+                     /gene="heat shock protein HSP72 homolog"
+                     /codon_start=1
+                     /protein_id="AAB28816.1"
+                     /db_xref="GI:452947"
+                     /translation="VTVRTVDNLLEVSARHPQRLDRHGFVSREFCRTYVLPADVDPWR
+                     VRAALSHDGILNLEAPRGGRHLDTEVNEVYISLLPAPPDPEEEEEAAIVEP"
+ORIGIN      
+        1 gtgactgtga ggactgtgga taacctgctg gaggtgtctg cccggcaccc ccagcgcctg
+       61 gaccgccacg gcttcgtgtc ccgagagttc tgccgcacct atgtcctgcc tgctgatgtc
+      121 gacccctggc gagtccgagc tgctctctcc catgatggca tcttaaacct ggaagcacct
+      181 cggggtggcc gacatttgga cacagaggtc aatgaggtct acatctccct gctccctgcg
+      241 cctcctgatc cagaggaaga ggaggaggca gccatagttg agccctgatt gccacagacc
+      301 cagcacccag caaatccctc tctacctccc aaggtgatat ggccagctgc ccaccactcc
+      361 agaggtagca gcatccttgg gggaagggaa aggtgcatgg tccacaatgt atggtttggt
+      421 cccatgggac atgtcatagc cttggtttag
+//
+
+LOCUS       S45630                   691 bp    mRNA    linear   PRI 08-MAY-1993
+DEFINITION  alpha B-crystallin=Rosenthal fiber component [human, glioma cell
+            line, mRNA, 691 nt].
+ACCESSION   S45630
+VERSION     S45630.1  GI:256398
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 691)
+  AUTHORS   Iwaki,A., Iwaki,T., Goldman,J.E., Ogomori,K., Tateishi,J. and
+            Sakaki,Y.
+  TITLE     Accumulation of alpha B-crystallin in brains of patients with
+            Alexander's disease is not due to an abnormality of the 5'-flanking
+            and coding sequence of the genomic DNA
+  JOURNAL   Neurosci. Lett. 140 (1), 89-92 (1992)
+   PUBMED   1407707
+  REMARK    GenBank staff at the National Library of Medicine created this
+            entry [NCBI gibbsq 114959] from the original journal article.
+FEATURES             Location/Qualifiers
+     source          1..691
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+     gene            1..691
+                     /gene="alpha B-crystallin"
+     CDS             26..553
+                     /gene="alpha B-crystallin"
+                     /note="Rosenthal fiber component"
+                     /codon_start=1
+                     /product="alpha B-crystallin"
+                     /protein_id="AAB23453.1"
+                     /db_xref="GI:256399"
+                     /translation="MDIAIHHPWIRRPFFPFHSPSRLFDQFFGEHLLESDLFPTSTSL
+                     SPFYLRPPSFLRAPSWFDTGLSEMRLEKDRFSVNLDVKHFSPEELKVKVLGDVIEVHG
+                     KHEERQDEHGFISREFHRKYRIPADVDPLTITSSLSSDGVLTVNGPRKQVSGPERTIP
+                     ITREEKPAVTAAPKK"
+ORIGIN      
+        1 gacccctcac actcacctag ccaccatgga catcgccatc caccacccct ggatccgccg
+       61 ccccttcttt cctttccact cccccagccg cctctttgac cagttcttcg gagagcacct
+      121 gttggagtct gatcttttcc cgacgtctac ttccctgagt cccttctacc ttcggccacc
+      181 ctccttcctg cgggcaccca gctggtttga cactggactc tcagagatgc gcctggagaa
+      241 ggacaggttc tctgtcaacc tggatgtgaa gcacttctcc ccagaggaac tcaaagttaa
+      301 ggtgttggga gatgtgattg aggtgcatgg aaaacatgaa gagcgccagg atgaacatgg
+      361 tttcatctcc agggagttcc acaggaaata ccggatccca gctgatgtag accctctcac
+      421 cattacttca tccctgtcat ctgatggggt cctcactgtg aatggaccaa ggaaacaggt
+      481 ctctggccct gagcgcacca ttcccatcac ccgtgaagag aagcctgctg tcaccgcagc
+      541 ccccaagaaa tagatgccct ttcttgaatt gcatttttta aaacaagaaa gtttccccac
+      601 cagtgaatga aagtcttgtg actagtgctg aagcttatta atgctaaggg caggcccaaa
+      661 ttatcaagct aataaaatat cattcagcaa c
+//
+
+LOCUS       X54079                   789 bp    mRNA    linear   PRI 07-OCT-2008
+DEFINITION  Human mRNA for heat shock protein HSP27.
+ACCESSION   X54079
+VERSION     X54079.1  GI:32477
+KEYWORDS    heat shock protein; heat shock protein 27.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Carper,S.W., Rocheleau,T.A. and Storm,F.K.
+  TITLE     cDNA sequence of a human heat shock protein HSP27
+  JOURNAL   Nucleic Acids Res. 18 (21), 6457 (1990)
+   PUBMED   2243808
+REFERENCE   2  (bases 1 to 789)
+  AUTHORS   Carper,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JUL-1990) Carper S.W., University of Wisconsin,
+            Clinical Science Center, Dept. of Surgery, 600 Highland Avenue,
+            Madison, WI 53792, USA
+COMMENT     Data kindly reviewed (29-NOV-1990) by Carper S.W.
+FEATURES             Location/Qualifiers
+     source          1..789
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="#16-7"
+                     /cell_line="A549, ATCC #CCL185"
+                     /cell_type="fibroblast"
+                     /tissue_type="lung"
+     CDS             53..670
+                     /note="unnamed protein product; heat shock protein HSP27"
+                     /codon_start=1
+                     /protein_id="CAA38016.1"
+                     /db_xref="GI:32478"
+                     /db_xref="GDB:127602"
+                     /db_xref="GOA:P04792"
+                     /db_xref="HGNC:5246"
+                     /db_xref="InterPro:IPR001436"
+                     /db_xref="InterPro:IPR002068"
+                     /db_xref="UniProtKB/Swiss-Prot:P04792"
+                     /translation="MTERRVPFSLLRGPSWDPFRDWYPHSRLFDQAFGLPRLPEEWSQ
+                     WLGGSSWPGYVRPLPPAAIESPAVAAPAYSRALSRQLSSGVSEIRHTADRWRVSLDVN
+                     HFAPDELTVKTKDGVVEITGKHEERQDEHGYISRCFTRKYTLPPGVDPTQVSSSLSPE
+                     GTLTVEAPMPKLATQSNEITIPVTFESRAQLGGPEAAKSDETAAK"
+     misc_feature    767..773
+                     /note="polyA signal"
+ORIGIN      
+        1 gcccagcgcc ccgcactttt ctgagcagac gtccagagca gagtcagcca gcatgaccga
+       61 gcgccgcgtc cccttctcgc tcctgcgggg ccccagctgg gaccccttcc gcgactggta
+      121 cccgcatagc cgcctcttcg accaggcctt cgggctgccc cggctgccgg aggagtggtc
+      181 gcagtggtta ggcggcagca gctggccagg ctacgtgcgc cccctgcccc ccgccgccat
+      241 cgagagcccc gcagtggccg cgcccgccta cagccgcgcg ctcagccggc aactcagcag
+      301 cggggtctcg gagatccggc acactgcgga ccgctggcgc gtgtccctgg atgtcaacca
+      361 cttcgccccg gacgagctga cggtcaagac caaggatggc gtggtggaga tcaccggcaa
+      421 gcacgaggag cggcaggacg agcatggcta catctcccgg tgcttcacgc ggaaatacac
+      481 gctgcccccc ggtgtggacc ccacccaagt ttcctcctcc ctgtcccctg agggcacact
+      541 gaccgtggag gcccccatgc ccaagctagc cacgcagtcc aacgagatca ccatcccagt
+      601 caccttcgag tcgcgggccc agcttggggg cccagaagct gcaaaatccg atgagactgc
+      661 cgccaagtaa agccttagcc cggatgccca cccctgctgc cgccactggc tgtgcctccc
+      721 ccgccacctg tgtgttcttt tgatacattt atcttctgtt tttctcaaat aaagttcaaa
+      781 gcaaccacc
+//
+
