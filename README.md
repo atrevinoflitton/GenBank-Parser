@@ -6,6 +6,7 @@ Utilizes Java swing to read in &amp; parse local GenBank file
   <dt> Required files for program </dt>
   
   <dd>
+  
 --- 
   
 GenBankParser.java 
