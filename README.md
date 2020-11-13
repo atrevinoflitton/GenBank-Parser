@@ -7,10 +7,14 @@ Utilizes Java swing to read in &amp; parse local GenBank file
   
   <dd>
 --- 
-GenBankParser.java
-* Holds main class and swing file chooser
----
+  
+GenBankParser.java 
+  * Holds main class and swing file chooser
+  
+--- 
+
 GenBank_seq.gb
-* GenBank file with various sequences
----
+   * GenBank file with various sequences
+   
+--- 
 </dt>
