@@ -1,5 +1,5 @@
 # GenBank-Parser
-Utilizes Java swing to read in &amp; parse local GenBank file 
+Utilizes Java Swing and BioJava to build a GUI that reads in &amp; parses a local GenBank file. Returns the accession number, length of sequence, & description, followed by the sequence on a new line.
 
 
 <dl>
